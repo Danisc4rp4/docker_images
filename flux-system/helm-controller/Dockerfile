@@ -1,0 +1,1 @@
+FROM ghcr.io/fluxcd/helm-controller:v1.1.0

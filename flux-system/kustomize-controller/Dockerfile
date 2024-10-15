@@ -1,0 +1,1 @@
+FROM ghcr.io/fluxcd/kustomize-controller:v1.4.0
